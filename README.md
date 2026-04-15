@@ -6,15 +6,15 @@ This project implements the algorithms described in the paper:  **CIRSense: Reth
 ### BibTeX Citation
 
 ```bibtex
-@misc{kong2025cirsenserethinkingwifisensing,
-      title={CIRSense: Rethinking WiFi Sensing with Channel Impulse Response}, 
-      author={Ruiqi Kong and He Chen},
-      year={2025},
-      eprint={2510.11374},
-      archivePrefix={arXiv},
-      primaryClass={eess.SP},
-      url={https://arxiv.org/abs/2510.11374}, 
-}
+@ARTICLE{11457720,
+  author={Kong, Ruiqi and Chen, He},
+  journal={IEEE Transactions on Mobile Computing}, 
+  title={CIRSense: Rethinking WiFi Sensing With Channel Impulse Response}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-15},
+  doi={10.1109/TMC.2026.3678326}}
 ```
 
 ## Files Overview
@@ -40,7 +40,7 @@ This project implements the algorithms described in the paper:  **CIRSense: Reth
 - **`estimate_tau1_freq`**: Estimates time delays in the frequency domain.
 
 ### Data
-- The input data can be downloaded from
+- The input data can be downloaded from https://ieee-dataport.org/documents/cirsense-dataset-real-world-80211ax-csi-measurements-wireless-sensing
 
 ## Contact
 
